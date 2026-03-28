@@ -1134,3 +1134,7 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
+
+# 首页背景图片屏占比，1：100%，2：50%，1.5：75%
+homepage：
+    ratio: 2
