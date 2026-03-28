@@ -1,38 +1,46 @@
 ---
-title: Hello World
+title: 拹信冷氣有限公司:冷氣維修專家
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# ❄️ 專業冷氣服務
+
+我們擁有多年冷氣清洗與保養經驗，熟悉各品牌與機型的處理方式，從深層清潔到效能檢查，每一個細節都不馬虎。選擇我們，不只是讓冷氣變乾淨，更是讓使用更安心、更省電、更長久。交給專業的團隊處理，找我們準沒錯。
+
 
 ## Quick Start
 
 ### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+# ❄️ 專業冷氣維修・保養・安裝
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+還在忍受冷氣不冷、滴水、異味嗎？
+我們提供快速到府服務，讓你立刻恢復舒適生活！
 
-### Run server
+---
 
-``` bash
-$ hexo server
-```
+## 🔧 我們提供的服務
 
-More info: [Server](https://hexo.io/docs/server.html)
+✔ 冷氣安裝（新機 / 移機）
+✔ 冷氣清洗保養（改善異味・提升效率）
+✔ 冷氣維修（不冷 / 漏水 / 異音）
 
-### Generate static files
+---
 
-``` bash
-$ hexo generate
-```
+## 🚀 為什麼選擇我們？
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+✅ 9年以上經驗，專業技術安心可靠
+✅ 北北基快速到府，急件也能處理
+✅ 價格透明，不亂加價
+✅ 用心施工，重視每一個細節
 
-### Deploy to remote sites
+---
 
-``` bash
-$ hexo deploy
-```
+## 📞 立即預約
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+📱 電話：09xx-xxx-xxx
+💬 LINE：@xxxx
+
+👉 今天預約，最快當天到府服務！
+
+---
+
+# ❄️ 讓冷氣回到最好的狀態，就交給我們！
