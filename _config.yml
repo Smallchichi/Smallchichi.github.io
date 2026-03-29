@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 拹信冷氣有限公司
+subtitle: '維修冷氣專家'
+description: '維修冷氣專家'
+keywords: 
+ -冷氣
+ -空調
+author:  Smallchichi
+language: zh-TW
 timezone: ''
 
 # URL

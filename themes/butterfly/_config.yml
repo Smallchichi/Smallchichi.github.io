@@ -11,17 +11,17 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: 
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+   首頁: / || fas fa-home
+   List||fas fa-list:
+    Music: /music/ || fas fa-music
+    Movie: /movies/ || fas fa-video
 
 # --------------------------------------
 # Code Blocks Settings
@@ -1134,7 +1134,3 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
-
-# 首页背景图片屏占比，1：100%，2：50%，1.5：75%
-homepage：
-    ratio: 2
