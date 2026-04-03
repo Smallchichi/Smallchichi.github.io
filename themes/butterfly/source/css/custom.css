@@ -1,9 +1,15 @@
-#recent-posts {
-  display: grid !important;
-  grid-template-columns: repeat(2, 1fr) !important;
-  gap: 20px;
+/* 整體版面：主內容 + 右側欄 */
+.layout {
+  display: flex !important;
 }
 
-#recent-posts > .recent-post-item {
-  width: 100% !important;
+/* 主內容區 */
+#recent-posts {
+  width: 70% !important;
+}
+
+/* 右側欄 */
+#aside-content {
+  width: 30% !important;
+  display: block !important;
 }
