@@ -1,3 +1,9 @@
-#page-header.full_page {
-  height: 50vh !important;
+#recent-posts {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 20px;
+}
+
+#recent-posts > .recent-post-item {
+  width: 100% !important;
 }
