@@ -22,6 +22,7 @@ menu:
    List||fas fa-list:
     Music: /music/ || fas fa-music
     Movie: /movies/ || fas fa-video
+    Fund:  /fund/
 
 
 
@@ -58,7 +59,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/xiexin.png
   effect: false
 
 # Disable all banner images
